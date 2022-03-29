@@ -31,6 +31,8 @@
       
       
    /*another  method using flag variables
+   
+   
       int n=12;
       int counter=0;
       int num=2;

@@ -49,6 +49,7 @@
           if(num%i==0)
           {
             prime=false;
+            break;
           }
         }
           
